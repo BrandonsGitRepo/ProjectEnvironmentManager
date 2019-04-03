@@ -1,4 +1,4 @@
-**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg?branch=master)](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/tree/master/manager)
+**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg)](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/tree/master/manager)
 
 
 # ProjectEnvironmentManager
