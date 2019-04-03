@@ -1,0 +1,11 @@
+{
+    "template_paths":["build/test/classes",
+                    "build/test/reports",
+                    "doc",
+                    "lib",
+                    "src/main/groovy",
+                    "src/main/java",
+                    "src/test/groovy",
+                    "src/test/java",
+                    "custom/template/java"]
+}
