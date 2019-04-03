@@ -248,7 +248,6 @@ public class {package} {{
 
         if self.is_windows():
             template = [template_path.replace("/","\\") for template_path in template]
-            print(f"WINDOWS TEMPLATE : {template}")
 
         if args.new:
             print(f"new project : {args.new}")
