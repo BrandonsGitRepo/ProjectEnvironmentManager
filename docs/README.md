@@ -1,4 +1,4 @@
-**Build Status**: [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
+**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg?branch=master)](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/tree/master/manager)
 
 
 # ProjectEnvironmentManager
