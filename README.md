@@ -1,20 +1,25 @@
 **Build Status**: [![CircleCI]
 
 
-# Project Title
+# ProjectEnvironmentManager
 
-One Paragraph of project description goes here
+Fun little project manager written in Python 3.7.
+
+tool can function from a "project_template.json" or from a built-in template.
+
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+  - git clone
+  - cd to/file/path
+  - run "python3 CreateProject -n <NEW PROJECT NAME> -p <PACKAGE NAME(S)> -f 
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
 ```
-Give examples
+pip3 install json
 ```
 
 ### Installing
@@ -67,7 +72,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -81,7 +86,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/blob/master/LICENSE.md) file for details
 
 ## Acknowledgments
 
