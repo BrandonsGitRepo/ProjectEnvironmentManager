@@ -98,4 +98,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](https://gi
 
 ## Hosting 
 
-Sit is hosted here : [Project site](https://brandonsgitrepo.github.io/ProjectEnvironmentManager/)
+Site is hosted here : [Project site](https://brandonsgitrepo.github.io/ProjectEnvironmentManager/)
