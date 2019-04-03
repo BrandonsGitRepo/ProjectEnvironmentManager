@@ -95,3 +95,7 @@ This project is licensed under the GNU License - see the [LICENSE.md](https://gi
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+## Hosting 
+
+Sit is hosted here : [Project site](https://brandonsgitrepo.github.io/ProjectEnvironmentManager/)
