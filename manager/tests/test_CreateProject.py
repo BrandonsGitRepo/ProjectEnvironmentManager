@@ -247,7 +247,8 @@ public class {package} {{
                         "src/test/java"]
 
         if self.is_windows():
-            [template_path.replace("/","\\") for template_path in template]
+            template = [template_path.replace("/","\\") for template_path in template]
+            print(f"WINDOWS TEMPLATE : {template}")
 
         if args.new:
             print(f"new project : {args.new}")

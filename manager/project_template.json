@@ -6,6 +6,5 @@
                     "src/main/groovy",
                     "src/main/java",
                     "src/test/groovy",
-                    "src/test/java",
-                    "custom/template/java"]
+                    "src/test/java"]
 }
