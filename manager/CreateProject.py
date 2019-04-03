@@ -38,14 +38,14 @@ import argparse
 __author__ = "Brandon Bailey"
 __copyright__ = "Copyright 2019, Brandon Bailey"
 __credits__ = ["Brandon Bailey"]
-__license__ = "GPL"
-__version__ = "1.0.5"
+__license__ = "GNU"
+__version__ = "1.0.6"
 __maintainer__ = "Brandon Bailey"
 __email__ = ""
 __status__ = "Production"
 
 
-class PythonJavaProjectCreator(object):
+class CreateProject(object):
     """class wrapper for java environment creator for library moduling"""
 
     def __init__(self):
@@ -134,7 +134,7 @@ class PythonJavaProjectCreator(object):
 
         try:
             json_file = [os.path.join(root_path, f) for f in files_in_dir \
-                         if "template_paths" in f and f.endswith(".json")][0]
+                         if "project_template" in f and f.endswith(".json")][0]
 
         except Exception as error:
             print(f"Warning : No json templates found in destionation : {error}")
@@ -276,4 +276,4 @@ public class {package} {{
 
 if __name__ == '__main__':
 
-    PythonJavaProjectCreator().create_environment()
+    CreateProject().create_environment()
