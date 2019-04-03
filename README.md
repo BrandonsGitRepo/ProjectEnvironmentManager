@@ -10,9 +10,11 @@ tool can function from a "project_template.json" or from a built-in template.
 
 ## Getting Started
 
+```
   - git clone
   - cd to/file/path
   - run "python3 CreateProject -n <NEW PROJECT NAME> -p <PACKAGE NAME(S)> -f 
+```
 
 ### Prerequisites
 
