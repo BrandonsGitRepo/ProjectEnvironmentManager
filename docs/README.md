@@ -1,7 +1,7 @@
-**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg)](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/tree/master/manager)
+**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg)](https://github.com/BrandonsGitRepo/project-environment-manager/tree/master/manager)
 
 
-# ProjectEnvironmentManager
+# project-environment-manager
 
 Fun little project manager written in Python 3.7.
 
@@ -14,7 +14,7 @@ tool can function from a "project_template.json" or from a built-in template.
 ```
   - git clone
   - cd to/file/path
-  - run "python3 CreateProject -n <NEW PROJECT NAME> -p <PACKAGE NAME(S)> -f 
+  - run "python3 CreateProject -n <NEW PROJECT NAME> -p <PACKAGE NAME(S)> -f
 ```
 
 ### Prerequisites
@@ -75,11 +75,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/BrandonsGitRepo/project-environment-manager/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BrandonsGitRepo/project-environment-manager/tags).
 
 ## Authors
 
@@ -89,7 +89,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/BrandonsGitRepo/ProjectEnvironmentManager/blob/master/docs/LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/BrandonsGitRepo/project-environment-manager/blob/master/docs/LICENSE.md) file for details
 
 ## Acknowledgments
 
@@ -97,6 +97,6 @@ This project is licensed under the GNU License - see the [LICENSE.md](https://gi
 * Inspiration
 * etc
 
-## Hosting 
+## Hosting
 
-Site is hosted here : [Project site](https://brandonsgitrepo.github.io/ProjectEnvironmentManager/)
+Site is hosted here : [Project site](https://brandonsgitrepo.github.io/project-environment-manager/)
