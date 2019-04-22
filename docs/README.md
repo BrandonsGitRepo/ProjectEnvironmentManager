@@ -73,7 +73,7 @@ Python
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/BrandonsGitRepo/project-environment-manager/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/brandon-kyle-bailey/project-environment-manager/blob/master/docs/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
