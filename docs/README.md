@@ -87,7 +87,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/BrandonsGitRepo/project-environment-manager/blob/master/docs/LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/brandon-kyle-bailey/project-environment-manager/blob/master/docs/LICENSE.md) file for details
 
 ## Acknowledgments
 
