@@ -77,7 +77,7 @@ Please read [CONTRIBUTING.md](https://github.com/brandon-kyle-bailey/project-env
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BrandonsGitRepo/project-environment-manager/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/brandon-kyle-bailey/project-environment-manager/tags).
 
 ## Authors
 
