@@ -97,4 +97,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](https://gi
 
 ## Hosting
 
-Site is hosted here : [Project site](https://brandonsgitrepo.github.io/project-environment-manager/)
+Site is hosted here : [Project site](https://brandon-kyle-bailey.github.io/project-environment-manager/)
