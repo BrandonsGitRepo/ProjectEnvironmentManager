@@ -81,7 +81,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Brandon Bailey** - *Initial work* - [BrandonsGitRepo](https://github.com/BrandonsGitRepo)
+* **Brandon Bailey** - *Initial work* - [BrandonsGitRepo](https://github.com/brandon-kyle-bailey)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
